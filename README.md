@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/selahi-korkut/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-selahi-korkut-blue?style=flat-square&logo=Linkedin&logoColor=white&link"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-selahi-korkut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selahi-korkut//)](https://www.linkedin.com/in/selahi-korkut/)
 <a href="mailto:selahikorkut@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-selahikorkut@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
