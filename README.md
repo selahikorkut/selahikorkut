@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Muğla Sıtkı Koçman University Computer Engineering Department.
 - 💼 &nbsp; I am not currently working anywhere. I am actively looking for a job as a front end developer.
-- 🌱 &nbsp; I’m currently learning Front End web development using ReactJS,NextJS AND packages and technologies used together
+- 🌱 &nbsp; I’m currently learning Front End web development using ReactJS,NextJS And packages and technologies used together
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
